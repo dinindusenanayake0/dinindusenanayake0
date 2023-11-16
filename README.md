@@ -1,5 +1,4 @@
-### Hi there 👋
-
+Hello there! 👋 I'm an aspiring software engineer with knowledge & experience in ReactJS, NodeJS, Tailwind CSS, and Bootstrap. I'm on a mission to bring creative ideas to life through coding and problem-solving. Eager to collaborate, learn, and make a meaningful impact in the world of Software Engineering.
 <!--
 **dinindusenanayake0/dinindusenanayake0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
